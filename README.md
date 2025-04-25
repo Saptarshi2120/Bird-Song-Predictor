@@ -6,7 +6,7 @@ This Streamlit app predicts bird species from uploaded audio clips using a pre-t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/bird_species_predictor.git
+    git clone https://github.com/Saptarshi2120/Bird_Song_Predictor.git
     ```
 2. Install the dependencies:
     ```bash
